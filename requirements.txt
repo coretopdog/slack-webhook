@@ -1,2 +1,4 @@
+python==3.11
 fastapi
-uvicorn
+unicorn
+requests
