@@ -32,3 +32,4 @@ async def slack_events(request: Request):
 
     return {"status": "sent"}
 Slack通知テスト by Masaru
+SlackTes
